@@ -62,23 +62,27 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 3. **Instal dependensi**:
 
-    1. Terminal 1: Buka direktori backend
+    - Terminal 1: Buka direktori backend
 
         ```bash
         cd backend
+        ```
+        ```bash
         npm install
         ```
 
-    2. Terminal 2: Buka direktori frontend
+    - Terminal 2: Buka direktori frontend
 
         ```bash
         cd frontend
+        ```
+        ```bash
         npm install
         ```
 
 4. **Setup .env**:
 
-    1. Buat file bernama `.env` di direktori backend dan isi dengan:
+    - Buat file bernama `.env` di direktori backend dan isi dengan:
 
         ```bash
         PORT=4000
@@ -88,16 +92,16 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 5. **Jalankan Program**:
 
-    1. Terminal di direktori backend:
+    - Terminal di direktori backend:
 
         ```bash
         npm run dev
         ```
 
-    2. Terminal di direktori frontend:
+    - Terminal di direktori frontend:
     
         ```bash
-        npm start
+        npm run start
         ```
 
 ## Fitur - Fitur
