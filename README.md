@@ -80,47 +80,47 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 3. **Instal dependensi**:
 
-    - Terminal 1: Buka direktori backend
+    Terminal ke-1: Buka direktori `backend`
 
-        ```bash
-        cd backend
-        ```
-        ```bash
-        npm install
-        ```
+    ```bash
+    cd backend
+    ```
+    ```bash
+    npm install
+    ```
 
-    - Terminal 2: Buka direktori frontend
+    Terminal ke-2: Buka direktori `frontend`
 
-        ```bash
-        cd frontend
-        ```
-        ```bash
-        npm install
-        ```
+    ```bash
+    cd frontend
+    ```
+    ```bash
+    npm install
+    ```
 
 4. **Setup .env**:
 
-    - Buat file bernama `.env` di direktori root backend dan isi dengan:
+    Buat file bernama `.env` di direktori root backend dan isi dengan:
 
-        ```bash
-        PORT=4000
-        MONGO_URI=mongodb://localhost:27017/Nama-Databasemu
-        SECRET=abcdefghijklmnopqrstuvwxyz0123456789
-        ```
+    ```bash
+    PORT=4000
+    MONGO_URI=mongodb://localhost:27017/Nama-Databasemu
+    SECRET=abcdefghijklmnopqrstuvwxyz0123456789
+    ```
 
 5. **Jalankan Program**:
 
-    - Terminal di direktori backend:
+    Terminal di direktori backend
 
-        ```bash
-        npm run dev
-        ```
+    ```bash
+    npm run dev
+    ```
 
-    - Terminal di direktori frontend:
+    Terminal di direktori frontend
     
-        ```bash
-        npm run start
-        ```
+    ```bash
+    npm run start
+    ```
 
 ## Fitur - Fitur
 
@@ -140,8 +140,10 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 Kami berharap aplikasi ini dapat membantu Anda dalam mengelola tugas-tugas sehari-hari. Jika Anda memiliki pertanyaan, umpan balik, atau ingin berkontribusi pada proyek ini, jangan ragu untuk membuka *issue* atau *pull request* di repository GitHub kami.
 
-- **Repository GitHub**: [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
-- **Kontak**: 
+- **Repository GitHub:** [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
+
+- **Kontak:**
+
   - <a href="mailto:rey.zakaria123@gmail.com">Email</a>
   - <a href="https://www.facebook.com/reyvaldi.zakaria.18" target="_blank" rel="noopener noreferrer">Facebook</a>
 
