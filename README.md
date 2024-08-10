@@ -13,11 +13,24 @@ Aplikasi To-Do berbasis React yang memungkinkan pengguna untuk menambahkan, meng
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshot/Login-Form.png" alt="Login Form" width="200"/>
-  <img src="screenshot/Signup-Form.png" alt="Signup Form" width="200"/>
-  <img src="screenshot/Task-Details.png" alt="Task Details" width="200"/>
-</p>
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="text-align: center;">
+    <h4><strong>Login Form</strong></h4>
+    <img src="screenshot/Login-Form.png" alt="Login Form" width="300"/>
+  </div>
+
+  <div style="text-align: center;">
+    <h4><strong>Signup Form</strong></h4>
+    <img src="screenshot/Signup-Form.png" alt="Signup Form" width="300"/>
+  </div>
+
+  <div style="text-align: center;">
+    <h4><strong>Task Details</strong></h4>
+    <img src="screenshot/Task-Details.png" alt="Task Details" width="300"/>
+  </div>
+
+</div>
 
 ## Teknologi yang Digunakan
 
