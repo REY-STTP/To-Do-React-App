@@ -11,6 +11,17 @@ Aplikasi To-Do berbasis React yang memungkinkan pengguna untuk menambahkan, meng
 - Melihat daftar tugas dengan status dan tanggal pembuatan
 - Logout handler
 
+## Screenshots
+
+### Login Form
+![Login Form](screenshot/Login-Form.png)
+
+### Signup Form
+![Signup Form](screenshot/Signup-Form.png)
+
+### Task Details
+![Task Details](screenshot/Task-Details.png)
+
 ## Teknologi yang Digunakan
 
 - **React**: Library untuk membangun antarmuka pengguna
@@ -83,7 +94,7 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 4. **Setup .env**:
 
-    - Buat file bernama `.env` di direktori backend dan isi dengan:
+    - Buat file bernama `.env` di direktori root backend dan isi dengan:
 
         ```bash
         PORT=4000
@@ -123,7 +134,9 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 Kami berharap aplikasi ini dapat membantu Anda dalam mengelola tugas-tugas sehari-hari. Jika Anda memiliki pertanyaan, umpan balik, atau ingin berkontribusi pada proyek ini, jangan ragu untuk membuka *issue* atau *pull request* di repository GitHub kami.
 
-- **Repository GitHub**: [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
-- **Kontak**: rey.zakaria123@gmail.com
+**Repository GitHub**: [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
+**Kontak**: 
+  - <a href="mailto:rey.zakaria123@gmail.com">Email</a>
+  - <a href="https://www.facebook.com/reyvaldi.zakaria.18" target="_blank">Facebook</a>
 
 Terima kasih atas dukungan dan kontribusi Anda!
