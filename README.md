@@ -106,13 +106,15 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 ## Fitur - Fitur
 
-1. **Menambahkan Tugas**: Klik pada tombol "Tambah Tugas" untuk menambahkan tugas baru. Isi form dengan informasi tugas dan klik "Tambah Tugas" untuk menyimpan.
+1. **Login & Signup**: Aplikasi dilengkapi dengan Login dan Signup Form untuk masuk ke dalam aplikasi.
 
-2. **Mengedit Tugas**: Klik pada ikon edit di samping tugas untuk mengubah informasi tugas. Simpan perubahan dengan klik "Simpan".
+2. **Menambahkan Tugas**: Klik pada tombol "Tambah Tugas" untuk menambahkan tugas baru. Isi form dengan informasi tugas dan klik "Tambah Tugas" untuk menyimpan.
 
 3. **Menghapus Tugas**: Klik pada ikon hapus di samping tugas untuk menghapus tugas dari daftar.
 
 4. **Menandai Tugas**: Tandai tugas sebagai selesai dengan klik checkbox di sebelah tugas.
+
+5. **Logout**: Aplikasi dilengkapi dengan Logout handler untuk keluar dari aplikasi.
 
 ## Penutup
 
