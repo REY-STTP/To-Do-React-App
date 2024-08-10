@@ -4,11 +4,12 @@ Aplikasi To-Do berbasis React yang memungkinkan pengguna untuk menambahkan, meng
 
 ## Fitur
 
+- Login dan Signup Form
 - Tambah tugas baru
-- Edit tugas yang ada
 - Hapus tugas
 - Tandai tugas sebagai selesai atau belum selesai
 - Melihat daftar tugas dengan status dan tanggal pembuatan
+- Logout handler
 
 ## Teknologi yang Digunakan
 
