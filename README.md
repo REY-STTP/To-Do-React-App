@@ -140,9 +140,9 @@ Berikut adalah penjelasan mengenai beberapa dependensi utama yang digunakan dala
 
 Kami berharap aplikasi ini dapat membantu Anda dalam mengelola tugas-tugas sehari-hari. Jika Anda memiliki pertanyaan, umpan balik, atau ingin berkontribusi pada proyek ini, jangan ragu untuk membuka *issue* atau *pull request* di repository GitHub kami.
 
-**Repository GitHub**: [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
-**Kontak**: 
+- **Repository GitHub**: [To-Do React App](https://github.com/REY-STTP/To-Do-React-App.git)
+- **Kontak**: 
   - <a href="mailto:rey.zakaria123@gmail.com">Email</a>
-  - <a href="https://www.facebook.com/reyvaldi.zakaria.18" target="_blank">Facebook</a>
+  - <a href="https://www.facebook.com/reyvaldi.zakaria.18" target="_blank" rel="noopener noreferrer">Facebook</a>
 
 Terima kasih atas dukungan dan kontribusi Anda!
